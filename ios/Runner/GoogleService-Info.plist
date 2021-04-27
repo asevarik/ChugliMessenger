@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>352173566436-prk6g6p4fqm1t19ah5ln9o1qq0llam5d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.352173566436-prk6g6p4fqm1t19ah5ln9o1qq0llam5d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDoo1iJFWgmVhcV_RO0tWM1Xn5U-c1jgNs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352173566436</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.abhishek.chuglimessenger</string>
+	<key>PROJECT_ID</key>
+	<string>chugli-276db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chugli-276db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352173566436:ios:0fb0ceefb07f2b4fc57ff1</string>
+</dict>
+</plist>

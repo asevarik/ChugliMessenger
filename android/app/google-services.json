@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "352173566436",
+    "firebase_url": "https://chugli-276db-default-rtdb.firebaseio.com",
+    "project_id": "chugli-276db",
+    "storage_bucket": "chugli-276db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352173566436:android:4ebafc549de6a1c6c57ff1",
+        "android_client_info": {
+          "package_name": "com.abhishek.chuglimessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352173566436-n1fuhh0a4407a8peqmkkv6mt2ros1ccn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHQFhCgFjDt3VVG0ISqoPto2e5ZnnSGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352173566436-n1fuhh0a4407a8peqmkkv6mt2ros1ccn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352173566436-prk6g6p4fqm1t19ah5ln9o1qq0llam5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abhishek.chuglimessenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
